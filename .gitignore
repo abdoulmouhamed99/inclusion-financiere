@@ -1,6 +1,6 @@
-
-data/raw/*
-data/processed/*
-!data/raw/.gitkeep
-!data/processed/.gitkeep
+data/raw/
+data/processed/
+catboost_info/
 .ipynb_checkpoints/
+__pycache__/
+*.pyc
